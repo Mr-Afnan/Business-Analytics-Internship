@@ -69,7 +69,7 @@ Matplotlib: Visualization library for creating static plots.
 Seaborn: Statistical data visualization library based on Matplotlib.
 
 ## Engage with Me
-Feel free to browse through the repository, provide your insights, or contact me for discussions on data science, web development, business analytics, internships, or any other related subjects. I'm enthusiastic about learning and advancing together with the community!
+Feel free to browse through the repository, provide your insights, or contact me for discussions on data Analytics, business analytics, internships, or any other related subjects. I'm enthusiastic about learning and advancing together with the community!
 
 ## Let's Connect !!
 Dive into the repository, share your thoughts, or reach out for discussions on data science, internship experiences, or any related topics. I'm excited to learn and grow together!
